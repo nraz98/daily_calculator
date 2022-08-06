@@ -1,0 +1,93 @@
+{   
+  "weeklygoals": "29000",
+  "monthlygoals": "30000",
+    "income":[
+    {
+      "uuid" : "6417aac0-d103-4015-a975-d644faaafb41",
+      "job_name" :"Runner Office",
+      "job_date" :"2022/07/18",
+      "fee" :"9800",
+      "commission" :"2000",
+      "job_cost" : [   
+        {
+          "cost_desc": "Petrol",
+          "cost_amt": "200"
+        },
+        {
+          "cost_desc": "Toll",
+          "cost_amt": "060"
+        }
+      ]
+    },
+    {
+      "uuid" : "6517aac0-d103-4015-a975-d644faaafb41",
+      "job_name" :"Runner Factory",
+      "job_date" :"2022/06/20",
+      "fee" :"9900",
+      "commission" :"1500",
+      "job_cost" : [   
+        {
+          "cost_desc": "Parking",
+          "cost_amt": "1200"
+        },
+        {
+          "cost_desc": "Toll",
+          "cost_amt": "100"
+        }
+      ]
+    },
+    {
+        "uuid" : "6511aac0-d103-4015-a975-d644faaafb41",
+        "job_name" :"Runner ABC",
+        "job_date" :"2022/08/03",
+        "fee" :"11000",
+        "commission" :"9000",
+        "job_cost" : [   
+          {
+            "cost_desc": "Petrol",
+            "cost_amt": "1000"
+          },
+          {
+            "cost_desc": "Toll",
+            "cost_amt": "150"
+          }
+        ]
+      },
+      {
+        "uuid" : "6512aac0-d103-4015-a975-d644faaafb41",
+        "job_name" :"Runner Clinic",
+        "job_date" :"2022/08/03",
+        "fee" :"2300",
+        "commission" :"500",
+        "job_cost" : [   
+          {
+            "cost_desc": "Petrol",
+            "cost_amt": "200"
+          },
+          {
+            "cost_desc": "Insurance",
+            "cost_amt": "150"
+          }
+        ]
+      },
+      {
+        "uuid" : "6515aac0-d103-4015-a975-d644faaafb41",
+        "job_name" :"Runner Office",
+        "job_date" :"2022/08/04",
+        "fee" :"2200",
+        "commission" :"1000",
+        "job_cost" : [   
+          {
+            "cost_desc": "Petrol",
+            "cost_amt": "250"
+          },
+          {
+            "cost_desc": "Toll",
+            "cost_amt": "280"
+          }
+        ]
+      }
+    
+      
+    ]
+ }
