@@ -145,6 +145,10 @@ class EarningsController extends GetxController {
         userEarn.first.income[idxincome].jobCost[idxcost].costDesc;
     costamtController.text =
         userEarn.first.income[idxincome].jobCost[idxcost].costAmt;
+          costname =
+        userEarn.first.income[idxincome].jobCost[idxcost].costDesc;
+   costamt =
+        userEarn.first.income[idxincome].jobCost[idxcost].costAmt;
 
     update();
   }
